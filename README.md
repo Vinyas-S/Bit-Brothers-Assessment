@@ -10,6 +10,11 @@ git clone https://github.com/Vinyas-S/Bit-Brothers-Assessment.git <br/>
 Build <br/>
 Run <br/>
 
+Prototype test
+----
+Visit: https://appetize.io/app/ryu5f5h2yg7ey9kgeyzucj222c?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
+
+
 Screenshots
 ---
 ![Screenshot_20210927-204649](https://user-images.githubusercontent.com/69859338/134938635-0e64ff2d-0361-44c0-b978-f28edfba91b3.png)
