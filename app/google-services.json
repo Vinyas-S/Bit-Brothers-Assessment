@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "202305491517",
+    "project_id": "bitbrothers-f2382",
+    "storage_bucket": "bitbrothers-f2382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202305491517:android:c0255275eae95231135054",
+        "android_client_info": {
+          "package_name": "com.example.bitbrothers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202305491517-j6sjrcu9tq633m6gips9s7vvief4ea52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bitbrothers",
+            "certificate_hash": "aae951133c0965016fb927307f9b58aa08d008d3"
+          }
+        },
+        {
+          "client_id": "202305491517-jqnjq5tb995b31q09q1a416gv3kmop6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_CF1u2ISfajty5frC27MG3z1u_c2yXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202305491517-jqnjq5tb995b31q09q1a416gv3kmop6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
